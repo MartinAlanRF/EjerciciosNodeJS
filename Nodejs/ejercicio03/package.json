@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio03",
+  "version": "1.0.0",
+  "description": "Proyecto ejemplo03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Fisher",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
